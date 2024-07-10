@@ -1,0 +1,84 @@
+#banertext {
+    top: 170px;
+    text-align: left;
+    color: #907847;
+    border-radius: 10px;
+}
+
+#form3 {
+    background-color: whitek;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 30px;
+}
+
+#form1 {
+    background-color: whitek;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 30px;
+}
+
+#form2 {
+    background-color: white;
+    padding: 90px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 350px;
+    margin: 30px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background-color: #45a049;
+}
+
+.contact-info {
+    background-color: #009688;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+.contact-text {
+    font-size: 18px;
+    margin: 0; 
+}
+
+.contact-icon {
+    width: 20px;
+    vertical-align: middle; 
+    margin-right: 10px; 
+}
